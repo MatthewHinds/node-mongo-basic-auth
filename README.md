@@ -1,2 +1,2 @@
-# jwt-auth-example
-A JWT Auth example using NodeJs
+# jwt-user-auth
+A JWT user authentication example using NodeJs
