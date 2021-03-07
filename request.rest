@@ -1,0 +1,23 @@
+###
+GET http://localhost:3050/api/users 
+###
+
+###
+POST http://localhost:3050/api/user
+Content-Type: application/json
+
+{
+    "username": "Matthew",
+    "password": "password"
+}
+###
+
+###
+POST http://localhost:3050/api/user/login
+Content-Type: application/json
+
+{
+    "username": "Matthew",
+    "password": "password"
+}
+###
