@@ -1,2 +1,2 @@
-# jwt-user-auth
-A JWT user authentication example using NodeJs
+# node.js Mongo basic auth
+A basic mongo user authentication example using NodeJs
